@@ -1,4 +1,4 @@
-# Multithreaded Integer Sorter
+# Multithreaded Parallel Integer Sorter in C
 
 This C program uses multithreading to sort a list of integers. It splits the list into two sublists, sorts them in parallel using threads, and merges the results into a single sorted list.
 
